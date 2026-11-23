@@ -1,0 +1,10 @@
+"type_cellulaire","n_cellules","pourcentage"
+"Cellules dendritiques",32,1.2
+"Cellules NK",155,5.9
+"Lymphocytes B",344,13
+"Monocytes CD14+",481,18.2
+"Monocytes FCGR3A+",162,6.1
+"Plaquettes",13,0.5
+"T CD4 mémoire",476,18
+"T CD4 naïfs",684,25.9
+"T CD8",291,11

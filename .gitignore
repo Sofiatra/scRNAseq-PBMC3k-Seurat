@@ -1,0 +1,6 @@
+data/
+results/*.rds
+.Rhistory
+.RData
+.Rproj.user/
+PROTOCOLE.md

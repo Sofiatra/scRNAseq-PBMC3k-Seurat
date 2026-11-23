@@ -1,0 +1,20 @@
+# Environnement conda du projet single-cell (R + Seurat)
+# Création :   conda env create -f environment.yml
+# Activation : conda activate singlecell_pbmc
+name: singlecell_pbmc
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3
+  - r-seurat>=5.0
+  - r-dplyr
+  - r-ggplot2
+  - r-patchwork
+  - r-readr
+  - r-tidyr
+  - r-pheatmap
+  - bioconductor-singler
+  - bioconductor-celldex
+  - bioconductor-singlecellexperiment
+  - curl

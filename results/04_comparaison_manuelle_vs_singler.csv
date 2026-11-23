@@ -1,0 +1,10 @@
+"","B_cell","CMP","Monocyte","NK_cell","Platelets","Pre-B_cell_CD34-","Pro-B_cell_CD34+","T_cells","NA"
+"Cellules dendritiques",0,0,27,0,0,4,0,1,0
+"Cellules NK",0,0,0,150,0,1,0,4,0
+"Lymphocytes B",331,0,0,0,0,1,4,6,2
+"Monocytes CD14+",0,0,430,0,0,48,0,0,3
+"Monocytes FCGR3A+",0,0,155,0,0,6,0,1,0
+"Plaquettes",0,0,0,0,12,0,1,0,0
+"T CD4 mémoire",0,0,0,1,0,1,0,474,0
+"T CD4 naïfs",0,3,0,0,0,3,0,660,18
+"T CD8",0,0,0,35,0,1,0,248,7
